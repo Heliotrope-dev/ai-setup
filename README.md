@@ -73,3 +73,9 @@ OpenClaw 是本地 Agent 调度平台，负责：
 ---
 
 *蒋天奇 · 杭州师范大学数学系 · 2026*
+
+## Creators
+
+- Heliotrope
+- Claude Code
+- Codex
